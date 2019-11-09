@@ -1,0 +1,54 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/01.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/01.png",
+				"name": "Wallpaper 1"
+
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/02.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/02.png",
+				"name": "Wallpaper 2"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/03.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/03.png",
+				"name": "Wallpaper 3"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/04.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/04.png",
+				"name": "Wallpaper 4"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/05.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/05.png",
+				"name": "Wallpaper 5"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/06.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/06.png",
+				"name": "Wallpaper 6"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/07.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/07.png",
+				"name": "Wallpaper 7"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/08.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/08.png",
+				"name": "Wallpaper 8"
+			}
+		]
+}
