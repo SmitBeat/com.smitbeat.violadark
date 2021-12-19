@@ -197,6 +197,146 @@
 		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/10.png",
 		"collections": "Landscapes,Art,Material Design",
 		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"					
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/11.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/11.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/11.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/11.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/12.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/12.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/12.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/12.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/13.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/13.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/13.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/13.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/14.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/14.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/14.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/14.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/15.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/15.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/15.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/15.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/16.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/16.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/16.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/16.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/17.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/17.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "Ahmed Bousrih",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/17.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.violadark/master/17.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"							
 	}
 ]
